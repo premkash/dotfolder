@@ -1,0 +1,36 @@
+{
+	"auto_find_in_selection": true,
+	"bold_folder_labels": true,
+	"caret_extra_width": 0,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"enable_telemetry": "flase",
+	"find_selected_text": true,
+	"font_face": "M+ 1mn light",
+	"font_size": 13,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_square": true,
+	"preview_on_click": false,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"sidebar_size_12": true,
+	"status_bar_brighter": true,
+	"tabs_small": true,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": false
+}
